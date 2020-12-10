@@ -1,0 +1,3 @@
+Joseph;Evans;Minsk;Pobedy;45
+Oscar;Parson;Moscow;Lenina;8
+George;King;New York;Park Avenue;7
